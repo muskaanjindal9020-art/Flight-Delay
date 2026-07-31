@@ -12,6 +12,7 @@ One thing worth flagging upfront: there's no passenger-count field in this data,
 ## What's in the dashboard
 
 **Overview** — total flights, cancellation/diversion rates, on-time performance, daily flight volume for both years overlaid, and flight volume by carrier.
+
 <img width="668" height="374" alt="YOY comparison" src="https://github.com/user-attachments/assets/b4428fb1-8c45-4743-b1e5-be9580823df4" />
 
 **Delay Analysis** — delay rate by carrier, plus a day-of-week × time-of-day heatmap showing how delays build up over the course of a day.
