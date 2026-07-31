@@ -18,6 +18,7 @@ One thing worth flagging upfront: there's no passenger-count field in this data,
 **Delay Analysis** — delay rate by carrier, plus a day-of-week × time-of-day heatmap showing how delays build up over the course of a day.
 <img width="665" height="376" alt="delay " src="https://github.com/user-attachments/assets/1c27e47c-4a1d-42a4-a035-60ddd3565c1c" />
 
+
 **YoY Comparison** — January 2019 vs. January 2020, side by side and carrier by carrier.
 <img width="668" height="374" alt="YOY comparison" src="https://github.com/user-attachments/assets/be96b1a8-3671-4ce5-b404-68d31681ae86" />
 
