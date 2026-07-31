@@ -38,7 +38,7 @@ One thing worth flagging upfront: there's no passenger-count field in this data,
 - Slicers synced across pages
 
 ## Files
-
+https://github.com/muskaanjindal9020-art/Flight-Delay/blob/main/Aviation.pbit
 ## About me
 
 Self-taught in Power BI, SQL, and Excel while transitioning from an operations background into data analytics. This is my second portfolio project. Open to feedback, and open to Data Analyst, Business Analyst, or MIS roles.
