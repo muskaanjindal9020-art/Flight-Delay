@@ -12,14 +12,14 @@ One thing worth flagging upfront: there's no passenger-count field in this data,
 ## What's in the dashboard
 
 **Overview** — total flights, cancellation/diversion rates, on-time performance, daily flight volume for both years overlaid, and flight volume by carrier.
+<img width="668" height="374" alt="YOY comparison" src="https://github.com/user-attachments/assets/b4428fb1-8c45-4743-b1e5-be9580823df4" />
 
 **Delay Analysis** — delay rate by carrier, plus a day-of-week × time-of-day heatmap showing how delays build up over the course of a day.
+<img width="665" height="376" alt="delay " src="https://github.com/user-attachments/assets/1c27e47c-4a1d-42a4-a035-60ddd3565c1c" />
 
 **YoY Comparison** — January 2019 vs. January 2020, side by side and carrier by carrier.
-
-<img width="665" height="376" alt="delay " src="https://github.com/user-attachments/assets/1c27e47c-4a1d-42a4-a035-60ddd3565c1c" />
 <img width="668" height="374" alt="YOY comparison" src="https://github.com/user-attachments/assets/be96b1a8-3671-4ce5-b404-68d31681ae86" />
-<img width="668" height="374" alt="YOY comparison" src="https://github.com/user-attachments/assets/b4428fb1-8c45-4743-b1e5-be9580823df4" />
+
 
 
 
