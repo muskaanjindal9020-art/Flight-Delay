@@ -1,4 +1,4 @@
-# Flight-Delay
+
 # US Airline On-Time Performance Dashboard
 
 An interactive Power BI dashboard built from 1.19M+ U.S. domestic flight records (January 2019 and January 2020) —mainly to get real practice with data cleaning, data modeling, and DAX, and to have something concrete to show while I look for Data Analyst / Business Analyst roles.
@@ -13,7 +13,8 @@ One thing worth flagging upfront: there's no passenger-count field in this data,
 
 **Overview** — total flights, cancellation/diversion rates, on-time performance, daily flight volume for both years overlaid, and flight volume by carrier.
 
-<img width="668" height="374" alt="YOY comparison" src="https://github.com/user-attachments/assets/b4428fb1-8c45-4743-b1e5-be9580823df4" />
+<img width="669" height="374" alt="overview" src="https://github.com/user-attachments/assets/5729d48f-59e2-43c7-b8b9-46d65e48fb78" />
+
 
 **Delay Analysis** — delay rate by carrier, plus a day-of-week × time-of-day heatmap showing how delays build up over the course of a day.
 <img width="665" height="376" alt="delay " src="https://github.com/user-attachments/assets/1c27e47c-4a1d-42a4-a035-60ddd3565c1c" />
@@ -40,7 +41,7 @@ One thing worth flagging upfront: there's no passenger-count field in this data,
 - Slicers synced across pages
 
 ## Files
-[https://github.com/muskaanjindal9020-art/Flight-Delay/blob/main/Aviation.pbit](https://github.com/muskaanjindal9020-art/Flight-Delay/blob/main/Aviation.pbix)
+
 ## About me
 
 Self-taught in Power BI, SQL, and Excel while transitioning from an operations background into data analytics. This is my second portfolio project. Open to feedback, and open to Data Analyst, Business Analyst, or MIS roles.
